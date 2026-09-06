@@ -1,3 +1,5 @@
+// Elaborado por: Juan David Gonzalez
+
 import java.util.Scanner;
 
 public class InvertirCadena {
